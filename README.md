@@ -1,1 +1,6 @@
-# contact-list-winforms
+- Thành Viên A :
+- Họ Tên : Trần Nguyên Bảo
+- MSSV : 22806006234
+- Thành Viên B :
+- Họ Tên : Nguyễn Đoàn Trung Hiếu
+- MSSV : 2280600903
